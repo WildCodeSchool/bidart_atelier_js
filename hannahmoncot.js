@@ -1,0 +1,12 @@
+let myAge = 26;
+const myName = "Hannah Moncot";
+let isInWCS = false;
+const schoolName = "Wild Code School";
+console.log(typeof myAge);
+console.log(typeof myName);
+console.log(typeof isInWCS);
+console.log(typeof schoolName);
+myAge++;
+console.log(myAge);
+isInWCS = true;
+console.log(myAge, myName, isInWCS, schoolName);
